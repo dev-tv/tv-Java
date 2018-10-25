@@ -1,6 +1,5 @@
-# tv-Java
 
-ApiGateway
+           ApiGateway
 	   |
 	   |----/src/main/
 	   |	|---- /java/com/sample/
