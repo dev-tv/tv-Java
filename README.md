@@ -95,3 +95,7 @@
 	   |		
 	   |	|---- resources
 	   |			|---- application.properties.java
+
+
+Tools & Technologies:- 
+				eclipse, Java, Maven, MicroService Architecture, AWS(Amazon web services), 	Firebase, Cassandra(Database), elastic search, kafka(mail&notification), Swagger, Json, log4j 
